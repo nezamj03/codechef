@@ -1,5 +1,6 @@
 /*
 Ups and Downs
+Rating: 1198
 
 Problem code: ANUUND
 link:http://www.codechef.com/COOK46/problems/ANUUND
