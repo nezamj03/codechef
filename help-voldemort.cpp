@@ -26,10 +26,6 @@ using a heap and popping elements sequentially, but beceause we will need to pop
 all elements, it also becomes O(N + NLogN).
 */
 
-/*
-Important note: This requires you to accumulate a long instead
-of an integer, likely because the test cases overflow integers.
-*/
 
 #include <iostream>
 #include <algorithm>
