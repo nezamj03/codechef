@@ -39,14 +39,14 @@ int main() {
 
     int n;
     cin >> n;
-    int e[n];
+    long e[n];
     for (int i = 0; i < n; i ++) {
         cin >> e[i];
     }
 
     sort(e, e + n);
 
-    int res = 0;
+    long res = 0;
     int i = 1;
     while (i < n) {
         res += e[i] * e[i - 1];
